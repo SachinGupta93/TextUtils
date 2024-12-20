@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SachinGupta93/TextUtils/static/css/main.31d6cfe0.css",
+    "main.js": "/SachinGupta93/TextUtils/static/js/main.6b51e738.js",
+    "static/js/453.b9b4a01c.chunk.js": "/SachinGupta93/TextUtils/static/js/453.b9b4a01c.chunk.js",
+    "index.html": "/SachinGupta93/TextUtils/index.html",
+    "main.6b51e738.js.map": "/SachinGupta93/TextUtils/static/js/main.6b51e738.js.map",
+    "453.b9b4a01c.chunk.js.map": "/SachinGupta93/TextUtils/static/js/453.b9b4a01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6b51e738.js"
+  ]
+}
